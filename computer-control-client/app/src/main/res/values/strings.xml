@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Computer Control</string>
+    <string name="hint_command">Введите команду</string>
+    <string name="button_execute">Выполнить</string>
+</resources>
